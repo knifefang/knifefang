@@ -1,5 +1,5 @@
-## HiHi! <3
-# Idk what im doing, it will be a mess. But hopefully i'll have fun.
+# HiHi! <3
+### Idk what im doing, it will be a mess. But hopefully i'll have fun.
 
 <!--
 **knifefang/knifefang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
